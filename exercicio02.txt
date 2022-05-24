@@ -1,0 +1,38 @@
+Exercício 02 - Criar algoritimo para a troca de pneu furado
+
+01 - Pare o veículo em um local seguro
+02 - Puxe o freio de mão para cima
+03 - Desligue o veículo
+04 - Engate a 1ª marcha
+05 - Abra a porta do veículo
+06 - Saia do veículo
+07 - Feche a porta do veículo
+08 - Pegue o triângulo de sinalização
+09 - Ponha o triângulo no chão a pelo menos 30 metros antes do veículo
+10 - Retorne ao veículo
+11 - Localize o estepe, o macaco e a chave de roda
+12 - Posicione as ferramentas e o estepe próximos ao pneu que será trocado
+13 - Encaixe a chave de roda em um dos parafusos
+14 - Gire a chave de roda no sentido anti-horário para afrouxar o parafuso
+15 - Repita a operação em todos os parafusos
+16 - Posicione o macaco no ponto de fixação indicado na parte inferior da carroceria, próximo ao pneu que será trocado
+17 - Acione o macaco para levantar o veículo até uma distância do solo que permita o encaixe do estepe
+18 - Remova os parafusos totalmente
+19 - Retire o pneu furado
+20 - Coloque o pneu furado sob o veículo
+21 - Coloque o estepe no eixo da roda
+22 - Encaixe todos os parafusos
+23 - Aperte os parafusos com a mão até onde puder
+24 - Com a chave de roda, aperte todos os parafusos com a mesma intensidade
+25 - Retire o pneu furado da parte de baixo do veículo
+26 - Acione o macaco para abaixar o veículo
+27 - Reforce o aperto nos parafusos pela última vez, sem exagerar na força
+28 - Guarde o pneu furado e as ferramentas utilizadas
+29 - Abra a porta do veículo
+30 - Entre no veículo
+31 - Feche a porta do veículo
+32 - Desengate a marcha
+33 - Ligue o veículo
+34 - Baixe o freio de mão
+35 - Engate a 1ª marcha
+36 - Dirija
