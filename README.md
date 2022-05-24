@@ -6,19 +6,19 @@ Este repositório abriga as respostas aos exercícios propostos durante aulas de
 ## Exercícios
 
 ### Exercício 01
-[Exercício 01] (./exercio01.txt)
+[Exercício 01] (./exercicio01.txt)
 
-[Exercício 02] (./exercio02.txt)
+[Exercício 02] (./exercicio02.txt)
 
-[Exercício 03] (./exercio03.por)
+[Exercício 03] (./exercicio03.por)
 
-[Exercício 04] (./exercio04.por)
+[Exercício 04] (./exercicio04.por)
 
-[Exercício 05] (./exercio05.por)
+[Exercício 05] (./exercicio05.por)
 
-[Exercício 06] (./exercio06.por)
+[Exercício 06] (./exercicio06.por)
 
-[Exercício 07] (./exercio07.por)
+[Exercício 07] (./exercicio07.por)
 
 ## Autores
 
