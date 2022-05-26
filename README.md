@@ -40,6 +40,26 @@ Este repositório abriga as respostas aos exercícios propostos durante aulas de
 
 [Exercício 17](./exercicio17.por)
 
+[Exercício 18](./exercicio18.por)
+
+[Exercício 19](./exercicio19.por)
+
+[Exercício 20](./exercicio20.por)
+
+[Exercício 21](./exercicio21.por)
+
+[Exercício 22](./exercicio22.por)
+
+[Exercício 23](./exercicio23.por)
+
+[Exercício 24](./exercicio24.por)
+
+[Exercício 25](./exercicio25.por)
+
+[Exercício 26](./exercicio26.por)
+
+[Exercício 27](./exercicio27.por)
+
 ## Autores
 
 - [@arthur-fellipe](https://www.github.com/arthur-fellipe)
